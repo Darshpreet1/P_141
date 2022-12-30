@@ -1,0 +1,17 @@
+.heading{
+    font-size: 19px;
+    margin: 0;
+    width: 100%;
+    height:100px;
+    box-shadow: 4px 4px 4px red;
+    font-family: 'Pacifico', cursive;
+}
+
+.note{
+    color: black;
+    font-size: 15px;
+}
+
+body{
+    background-size: cover;
+}
